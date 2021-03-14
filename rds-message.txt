@@ -1,0 +1,1 @@
+Connection to ecotech-db-1.cz5tx5g2vuqh.us-east-1.rds.amazonaws.com 3306 port [tcp/mysql] succeeded!
